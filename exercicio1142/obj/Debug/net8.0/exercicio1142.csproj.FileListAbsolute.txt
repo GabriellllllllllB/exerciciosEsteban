@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\bin\Debug\net8.0\exercicio1142.exe
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\bin\Debug\net8.0\exercicio1142.deps.json
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\bin\Debug\net8.0\exercicio1142.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\bin\Debug\net8.0\exercicio1142.dll
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\bin\Debug\net8.0\exercicio1142.pdb
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.dll
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\refint\exercicio1142.dll
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.pdb
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\exercicio1142.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Esteban exercicios\exercicio1142\obj\Debug\net8.0\ref\exercicio1142.dll
